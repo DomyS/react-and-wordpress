@@ -1,0 +1,18 @@
+nav ul {
+  display: flex;
+  list-style: none;
+  float: right;
+  text-decoration: none;
+  margin-top: 90px;
+  margin-right: 220px;
+}
+
+nav ul li {
+  margin-right: 50px;
+}
+
+li a {
+  color: black;
+  font-weight: 700;
+  font-size: 18px;
+}
